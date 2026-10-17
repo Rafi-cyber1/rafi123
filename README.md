@@ -3,7 +3,7 @@
 <h3 align="center">CS Student & Technical Lead @ NHCSS</h3>
 
 - 🌱 I'm currently learning ...
-- 📫 How to reach me: your@email.com
+- 📫 How to reach me: ghamidi554@gmail.com
 - ⚡ Fun fact: ...
 
 ### Connect with me:
